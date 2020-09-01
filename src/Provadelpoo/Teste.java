@@ -8,7 +8,7 @@ public class Teste {
 	public static void main(String[] args) {
 	
 Scanner teclado = new Scanner(System.in);
-		
+		//
 		int n = 1;
 		int controle;
 		int opcao;
